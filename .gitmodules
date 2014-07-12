@@ -4,3 +4,6 @@
 [submodule "python/python-object-oriented"]
 	path = python/python-object-oriented
 	url = https://github.com/ikajic/python-oop
+[submodule "python/starting-with-python"]
+	path = python/starting-with-python
+	url = https://github.com/ikajic/starting-with-python
