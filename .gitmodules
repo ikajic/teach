@@ -1,0 +1,6 @@
+[submodule "python/python-in-science"]
+	path = python/python-in-science
+	url = https://github.com/ikajic/python-in-science
+[submodule "python/python-object-oriented"]
+	path = python/python-object-oriented
+	url = https://github.com/ikajic/python-oop
