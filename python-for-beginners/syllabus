@@ -1,5 +1,11 @@
-0. The setup and the first program
-1. Variables and data structures
-2. Flow control
-3. Functions
-4. IO, sys
+0.  The setup and the first program
+1.  Variables and simple data types
+2.  More data types and branching
+3.  Flow controli
+4.  Functions 
+5.  More functions
+6.  Working with files
+7.  Python libraries: pretty plotting with matplotlib
+8.  Python libraries: serial data (numpy/pandas)
+9.  IPython Notebook
+10. Object oriented programming
