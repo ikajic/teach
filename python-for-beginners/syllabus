@@ -3,8 +3,12 @@
 2.  More data types and branching
 3.  Dictionaries and the for loop
 4.  Memory refresher and exercises
-5.  Functions
-6.  Working with files
+5.  Playing with dictionaries: analysing music
+6.  More for loops
+
+Preliminary plan for the upcoming lectures:
+7.  Functions
+8.  More functions
 7.  Python libraries: pretty plotting with matplotlib
 8.  Python libraries: serial data (numpy/pandas)
 9.  IPython Notebook

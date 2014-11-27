@@ -2,3 +2,5 @@
 *pyc
 
 other/
+code/
+.ipynb_checkpoints/
